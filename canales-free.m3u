@@ -1,0 +1,165 @@
+#EXTM3U
+#EXTINF:0 type="video" channelId="-1" group="Aire" logo="https://canal7salta.com/wp-content/uploads/2020/06/unnamed.jpg", Canal 7 Salta
+https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", Multivision
+https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
+#EXTINF:0 type="video" channelId="-1", El 10 TV Salta
+https://el10tvstream.digitalnoa.com.ar/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", Millenium Salta TV
+https://mileniumtv.onstreaming.live/live/7Gec1TzNpAZOdVo8XdOLEEKyPuJ2/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", Magic Kids
+https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", next HD paraguay
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", Wow Movies
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", cucuta retro TV
+https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", Music Top
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1", 13 Festival
+https://dai.google.com/linear/hls/pa/event/Nftd0fM2SXasfDlRphvUsg/stream/77237cfb-cba6-470c-9a61-273a2962bc5e:CHS/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", kpop mix
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", RetroPlus
+https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", cumbiaMIX
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", urban mix
+https://cloud.tvomix.com/URBANMIX/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", telecinco trelew
+https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", TV Publica Pampeana
+https://stream.arcast.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", canal 34 san juan
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", Canal 4 Posadas
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1", Doce TV Misiones
+https://g5.vxral-slo.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
+#EXTINF:0 type="video" channelId="-1" group="Aire", Canal 3 las heras
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", Canal 7 Sgo del estero
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", tdt
+https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", RadioCanal Cordoba
+http://204.199.3.2/.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", tv azteca
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", mas fm
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", Canal 4 Colombia
+https://server.asilivehd.com:3802/live/canal4live.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", Canal Vintage Music
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/chunklist_w563491990.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", TV retro Palm
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", Next TV Bolivia
+https://live.enhdtv.com:2020/hls/8038/8038.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", Canal Coral Bolivia
+https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", Canal 2 Chile
+https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", Asiri TV
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", MO channel (peru)
+https://cloudvideo.servers10.com:8081/8070/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", Uranio TV (peru)
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", ciudad magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", quantica tv
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", mega tv jaen peru
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", nativa tv peru
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", radio master peru
+https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", rn television peru
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", teleselva peru
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", via television peru
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", ecuavisa ecuador
+https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?dpssid=a2623a07b737f38e27296984bb1a97ce&sid=ba5t1l1xb21866951995695362df5d086&ndvc=0
+#EXTINF:0 type="video" channelId="-1" group="Aire", bum television colombia
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", canal mas colombia
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", cucuta retro tv colombia
+https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", telesur venezuela
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", notigram tv mexico
+https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", platzi TV españa
+https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/5c5c9bd24eedd524d6a1a8bf/playout/master.m3u8?aid=512e13acaca1ebcd2f000279&pid=yeACwDaZLqHi4FTHcDl6mmxrXnA9OM6E&sid=DbzYvBuOkz7uI7qJUp0ADn1r3N1WO2YB&uid=XVkwQC1TEtu7DcP07GeMvk1cyyz02s1L&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1767163838151&ot=iABaqhEGuBl8GDY5fPsOdA&proto=https&pz=us
+#EXTINF:0 type="video" channelId="-1" group="Aire", cine estrella usa
+https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", olam metro TV nicaragua
+https://netzerstreaming.com:4433/hls/olammetro/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", romana tv rep dominicana
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", TV exitos rep dominicana
+https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", america teve puerto rico
+https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", buena tv puerto rico
+https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", caribean adventage puerto rico
+https://video2.getstreamhosting.com:19360/8216/8216.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", telecosta tv guatemala
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", costa rica channel costa rica
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", Xtrema cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", los santos tv costa rica
+https://lstv.duckdns.org:449/hls/lstv.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", sarapiqui tv costa rica
+https://lstv.duckdns.org:449/hls/stv.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", telemas costa rica
+https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", Aire Sta Fe
+https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", X Level rock
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", F10 Bolivia
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", TDT multimedia bolivia
+https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Aire", Univalle Bolivia
+https://master.tucableip.com/univalletv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1", Canal 3 Pinamar
+https://intelincloud01.com.ar/hls/cn3/index.m3u8
+#EXTINF:0 type="video" channelId="-1", TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:0 type="video" channelId="-1", Vorterix
+https://g5.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/Playlist.m3u8?sense=true
+#EXTINF:0 type="video" channelId="-1", TRU Cordoba
+https://stream.arcast.ar/trutv/trutv/playlist.m3u8?wowzatokenendtime=1771507363&wowzatokenstarttime=0&wowzatokenhash=kOrXXoNbZZEfVWpIAvOeHyJf9sF3lkGvYEnSu1QBJKE=
+#EXTINF:0 type="video" channelId="-1", Teleaire TV
+https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1", Paires TV
+https://live-ak.vimeocdn.com/exp=1771511579~acl=%2F9d7b0f7f-c112-4913-98ae-6d81cee2856e_fmp4%2F%2A~hmac=21a3df8b1a2c2460a6fc4554088b3b37a9381c9ad9d857b7f790b362b08f3971/9d7b0f7f-c112-4913-98ae-6d81cee2856e_fmp4/avc/240p/chunklist.m3u8
+#EXTINF:0 type="video" channelId="-1", Cadea A
+https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1", Ceacom Bolivia
+https://eu1.servers10.com:8081/ceacom/index.m3u8
+#EXTINF:0 type="video" channelId="-1", Red TV
+https://master.tucableip.com/redtvshop/index.m3u8
+#EXTINF:0 type="video" channelId="-1", Unitel
+https://master.tucableip.com/tvhome/index.m3u8
+#EXTINF:0 type="video" channelId="-1", F10
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+#EXTINF:0 type="video" channelId="-1", UMSA Bolivia
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1", V Classic Tv
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1", Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
